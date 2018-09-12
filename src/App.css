@@ -1,0 +1,22 @@
+body {
+  background-color: #EEEEEE;
+}
+
+.image-wrap-col {
+  text-align: center;
+  /* margin-bottom: 20px; */
+  margin-top: 20px;
+}
+
+.scroll-top {
+  display: inline-block;
+  border-radius: 100%;
+  background-color: #f44336;
+  /* padding-top: 5px; */
+  position: fixed;
+  z-index: 999;
+  bottom: 10px;
+  right: 10px;
+  cursor: pointer;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.8);
+}
